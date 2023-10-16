@@ -1,4 +1,4 @@
-# Dimensionality-reduction-using-PCA-and-LDA
+# Dimensionality-reduction-using-PCA-and-LDA (NTU assignment in Machine Vision)
 import torch
 from torchvision import datasets, transforms
 import matplotlib.pyplot as plt
@@ -10,3 +10,4 @@ import numpy as np
 import os
 import timeit
 import json
+
